@@ -1,0 +1,49 @@
+[INFO] 10:30:57:113 CLIENTE LOG/(13502:13502): Hola! Soy un log.
+[INFO] 10:36:30:027 CLIENTE LOG/(13996:13996): Hola! Soy un log.
+[ERROR] 10:36:30:030 CLIENTE LOG/(13996:13996): Verifique el archivo de configuracion de entrada. (¿Este existe?)
+[INFO] 10:42:35:487 CLIENTE LOG/(14511:14511): Hola! Soy un log.
+[ERROR] 10:42:35:500 CLIENTE LOG/(14511:14511): Error al obtener la IP desde el client.config
+[ERROR] 10:42:35:500 CLIENTE LOG/(14511:14511): Error al obtener la PUERTO desde el client.config
+[ERROR] 10:42:35:500 CLIENTE LOG/(14511:14511): Error al obtener la VALOR desde el client.config
+[ERROR] 10:42:35:500 CLIENTE LOG/(14511:14511): Debido a errores en las configuraciones, se aborta la ejecución... (REVISE ARCH. CONFIGURACIONES)
+[INFO] 10:47:39:464 CLIENTE LOG/(14951:14951): Hola! Soy un log.
+[ERROR] 10:47:39:468 CLIENTE LOG/(14951:14951): Error al obtener la VALOR desde el client.config
+[ERROR] 10:47:39:469 CLIENTE LOG/(14951:14951): Debido a errores en las configuraciones, se aborta la ejecución... (REVISE ARCH. CONFIGURACIONES)
+[INFO] 10:47:58:532 CLIENTE LOG/(14998:14998): Hola! Soy un log.
+[ERROR] 10:47:58:545 CLIENTE LOG/(14998:14998): Error al obtener el VALOR desde el client.config
+[ERROR] 10:47:58:545 CLIENTE LOG/(14998:14998): Debido a errores en las configuraciones, se aborta la ejecución... (REVISE ARCH. CONFIGURACIONES)
+[INFO] 10:54:53:337 CLIENTE LOG/(15526:15526): Hola! Soy un log.
+[INFO] 10:57:42:819 CLIENTE LOG/(15802:15802): <Cliente> Iniciado.
+[INFO] 10:57:42:819 CLIENTE LOG/(15802:15802): Hola! Soy un log.
+[INFO] 10:57:42:819 CLIENTE LOG/(15802:15802): 127.0.0.1
+[INFO] 10:57:42:819 CLIENTE LOG/(15802:15802): 9262
+[INFO] 10:57:42:819 CLIENTE LOG/(15802:15802): valor
+[INFO] 10:58:34:699 CLIENTE LOG/(15892:15892): <Cliente> Iniciado.
+[INFO] 10:58:34:702 CLIENTE LOG/(15892:15892): Hola! Soy un log.
+[INFO] 10:58:34:703 CLIENTE LOG/(15892:15892): 127.0.0.1
+[INFO] 10:58:34:703 CLIENTE LOG/(15892:15892): 9262
+[INFO] 10:58:34:703 CLIENTE LOG/(15892:15892): valor
+[INFO] 11:00:43:252 CLIENTE LOG/(16057:16057): <Cliente> Iniciado.
+[INFO] 11:00:43:256 CLIENTE LOG/(16057:16057): Hola! Soy un log.
+[DEBUG] 11:00:43:256 CLIENTE LOG/(16057:16057): La IP de SERVIDOR es: 127.0.0.1, su puerto: 9262, el valor: valor
+[INFO] 11:27:34:225 CLIENTE LOG/(18072:18072): <Cliente> Iniciado.
+[INFO] 11:27:34:229 CLIENTE LOG/(18072:18072): Hola! Soy un log.
+[DEBUG] 11:27:34:229 CLIENTE LOG/(18072:18072): La IP de SERVIDOR es: 127.0.0.1, su puerto: 9262, el valor: valor
+[INFO] 11:28:20:857 CLIENTE LOG/(18148:18148): <Cliente> Iniciado.
+[INFO] 11:28:20:870 CLIENTE LOG/(18148:18148): Hola! Soy un log.
+[DEBUG] 11:28:20:871 CLIENTE LOG/(18148:18148): La IP de SERVIDOR es: 127.0.0.1, su puerto: 9262, el valor: valor
+[INFO] 11:28:34:764 CLIENTE LOG/(18360:18360): <Cliente> Iniciado.
+[INFO] 11:28:34:770 CLIENTE LOG/(18360:18360): Hola! Soy un log.
+[DEBUG] 11:28:34:770 CLIENTE LOG/(18360:18360): La IP de SERVIDOR es: 127.0.0.1, su puerto: 9262, el valor: valor
+[DEBUG] 11:28:37:368 CLIENTE LOG/(18360:18360): Intentando conexión con SERVIDOR.
+[ERROR] 11:28:37:368 CLIENTE LOG/(18360:18360): Problema al levantar conexión con SERVIDOR en IP:127.0.0.1 PUERTO:160805688 (¿SERVIDOR se encuentra levantado?)
+[INFO] 11:29:56:597 CLIENTE LOG/(18484:18484): <Cliente> Iniciado.
+[INFO] 11:29:56:599 CLIENTE LOG/(18484:18484): Hola! Soy un log.
+[DEBUG] 11:29:56:599 CLIENTE LOG/(18484:18484): La IP de SERVIDOR es: 127.0.0.1, su puerto: 9262, el valor: valor
+[DEBUG] 11:29:56:599 CLIENTE LOG/(18484:18484): Intentando conexión con SERVIDOR.
+[ERROR] 11:29:56:599 CLIENTE LOG/(18484:18484): Problema al levantar conexión con SERVIDOR en IP:127.0.0.1 PUERTO:9262 (¿SERVIDOR se encuentra levantado?)
+[INFO] 12:05:58:513 CLIENTE LOG/(21435:21435): <Cliente> Iniciado.
+[INFO] 12:05:58:513 CLIENTE LOG/(21435:21435): Hola! Soy un log.
+[DEBUG] 12:05:58:513 CLIENTE LOG/(21435:21435): La IP de SERVIDOR es: 127.0.0.1, su puerto: 9262, el valor: valor
+[DEBUG] 12:05:58:514 CLIENTE LOG/(21435:21435): Intentando conexión con SERVIDOR.
+[ERROR] 12:05:58:514 CLIENTE LOG/(21435:21435): Problema al levantar conexión con SERVIDOR en IP:127.0.0.1 PUERTO:9262 (¿SERVIDOR se encuentra levantado?)

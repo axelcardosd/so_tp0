@@ -1,0 +1,7 @@
+[INFO] 23:38:00:610 Servidor/(21423:21423): Levantó servidor y se encuentra esperando conexiones de Cliente por el puerto 4444.
+[INFO] 23:38:00:611 Servidor/(21423:21423): Servidor listo para recibir al cliente
+[INFO] 23:39:10:422 Servidor/(21423:21423): Se conecto un cliente!
+[INFO] 23:39:10:422 Servidor/(21423:21423): Me llego el mensaje valor
+[INFO] 23:39:18:575 Servidor/(21423:21423): Me llegaron los siguientes valores:
+
+[ERROR] 23:39:18:576 Servidor/(21423:21423): el cliente se desconecto. Terminando servidor
